@@ -72,9 +72,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robitussin&show_icons=true&locale=en" alt="robitussin" width="410" /></p>
 
 <hr>
-
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
-
+<p align="center">
+Dance like these [🦜 parrots](https://cultofthepartyparrot.com):
+<p>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -107,7 +107,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <p align="center">
 	<em>
-	Feel free to browse my repos 👀
+	while browsing my repos 👀
 	</em>
 <p>
 <p align="center">
