@@ -90,6 +90,4 @@ Do you like my profile and want to build your own? It's very simple. GitHub rece
 And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. 
 
 -----
-Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
 
-Last Edited on: 22/02/2021
