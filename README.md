@@ -98,7 +98,10 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <hr>
 
-Feel free to browse my repos
+
 <p align="center">
+<em>
+Feel free to browse my repos
+</em>
 <img alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <p>
