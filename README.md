@@ -100,8 +100,10 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 
 <p align="center">
-<em>
-Feel free to browse my repos
-</em>
-<img alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+	<em>
+	Feel free to browse my repos
+	</em>
+<p>
+<p align="center">
+	<img alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <p>
