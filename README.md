@@ -98,6 +98,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <hr>
 
-Please check my repos
+Feel free to browse my repos
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
