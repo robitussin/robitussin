@@ -107,7 +107,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <p align="center">
 	<em>
-	Feel free to browse my repos
+	Feel free to browse my repos 👀
 	</em>
 <p>
 <p align="center">
