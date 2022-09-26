@@ -73,7 +73,7 @@
 
 <hr>
 <p align="center">
-Dance like these [🦜 parrots](https://cultofthepartyparrot.com):
+Dance like these 🦜 parrots (https://cultofthepartyparrot.com):
 <p>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
